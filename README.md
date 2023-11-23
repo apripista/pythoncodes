@@ -103,3 +103,8 @@ If you're new to Python or programming in general, follow these steps to get sta
    ```bash
    git clone https://github.com/Perfect-Altruistics/python-beginner-projects.git
    cd python-beginner-projects
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
