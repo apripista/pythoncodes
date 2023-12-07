@@ -1,3 +1,5 @@
+# Simple to see how it will identify a
+# number as a positive and or negative number
 while True:
     try:
         number = float(input("\nEnter a number: "))
