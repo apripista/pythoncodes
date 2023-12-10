@@ -1,4 +1,4 @@
-# Load existing usernames and hashed passwords
+# Load existing usernames and hashed passwords in a file
 with open('usernames.txt', 'r') as username_file:
     lines = username_file.read().splitlines()
     user_data = {}
