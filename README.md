@@ -101,9 +101,8 @@ If you're new to Python or programming in general, follow these steps to get sta
 
 2. **Clone this Repository:**
    ```bash
-   git clone https://github.com/Perfect-Altruistics/python-beginner-projects.git
-   cd python-beginner-projects
-
+   git clone https://github.com/Perfect-Altruistics/pythoncodes.git
+   cd pythoncodes
 
 ## License
 
